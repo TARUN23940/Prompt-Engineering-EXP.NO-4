@@ -44,7 +44,10 @@ Everyday Functioning Prompts:
 1) Comparative Analysis Prompt:
 
 Use Case 1:Smartphone Comparison
-Scenario: A college student wants to buy a new smartphone for online classes, photography, and gaming. Use Case: To compare two smartphone brands and identify the best option based on features and budget. Prompt: “Compare the features, battery life, camera quality, performance, and price of the latest iPhone and Samsung Galaxy models. Suggest which phone is better for students.”
+Scenario: A college student wants to buy a new smartphone for online classes, photography, and gaming.
+Use Case: To compare two smartphone brands and identify the best option based on features and budget.
+Prompt: “Compare the features, battery life, camera quality, performance, and price of the latest iPhone and Samsung Galaxy models. Suggest which phone is better for students.”
+
 Use Case 2: Online Learning Platforms
 Scenario: A learner is confused about choosing the best online platform for skill development. Use Case: To compare learning platforms based on pricing, certifications, and user experience.
 Prompt: “Analyze and compare Coursera and Udemy based on course quality, certification value, pricing, and ease of use. Mention the advantages and disadvantages of both platforms.”
@@ -55,7 +58,10 @@ Use Case 1: Tourist Experience
 Scenario: A travel blogger wants to describe their first visit to Paris.
 Use Case: To generate a realistic personal travel experience from a first-person perspective.
 Prompt: “Imagine you are a tourist visiting Paris for the first time. Describe your experience visiting famous attractions, tasting local food, and exploring the culture.”
-Use Case 2: Remote Work Experience Scenario: A company wants employees to share their experience of working from home. Use Case: To explain the feelings, challenges, and benefits of remote work.
+
+Use Case 2: Remote Work Experience
+Scenario: A company wants employees to share their experience of working from home.
+Use Case: To explain the feelings, challenges, and benefits of remote work.
 Prompt: “Write from the perspective of an employee working from home for the f irst time. Describe the daily routine, challenges faced, and benefits experienced.”
 
 3) Everyday Functioning Prompts:
@@ -64,6 +70,7 @@ Use Case 1: Healthy Morning Routine
 Scenario: A student struggles with time management and maintaining healthy habits.
 Use Case: To create a practical daily morning routine for productivity and health.
 Prompt: “Create a simple morning routine for a college student that improves productivity, physical health, and time management.”
+
 Use Case 2: Monthly Budget Planning
 Scenario: A student living in a hostel wants to manage monthly expenses effectively.
 Use Case: To provide guidance on budgeting and saving money.
